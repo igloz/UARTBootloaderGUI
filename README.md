@@ -5,4 +5,4 @@ Build with **Lazarus 2.0.2**
 
 You will find **the bootloader** here: https://github.com/igloz/UARTBootloader
 
-<img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/screenshot1.png" alt="Screenshot"/>
